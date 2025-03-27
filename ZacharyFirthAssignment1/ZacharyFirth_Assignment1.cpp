@@ -1,10 +1,4 @@
 /*Name: Zachary Firth
-Z - Number: Z23543282
-Total Points : 10
-Due Date : 1 / 26 / 2022
-Course : C0P3014
-Assignment : Assignment 1
-Professor : Dr.Lofton Bullard
 Description : This program gives the total cost of a certain quantity of plants that depend on a county's tax rate, the discount rate
 which depends on the quantity, which are then applied totaled with the net cost after calculating both the tax and discount from 
 the net cost.*/
